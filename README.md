@@ -48,28 +48,20 @@ Interactive analytics
 Business-ready dashboard interface
 
 🗂️ Project Structure
-Customer-Churn-Prediction
+customer-churn-prediction-dashboard/
 │
-├── app.py  #Main Streamlit dashboard application
-│   
+├── app.py                  # Main Streamlit application
 │
 ├── model/
-│   ├── churn_model.pkl
-│   │   #Trained machine learning model
-│   │
-│   ├── scaler.pkl
-│   │   #Feature scaling model
-│   │
-│   └── model_columns.pkl
-│       #Expected feature columns for prediction
-│
-├── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-│       #Sample dataset used for training
+│   ├── churn_model.pkl     # Trained Random Forest model
+│   ├── scaler.pkl          # StandardScaler for feature normalization
+│   └── model_columns.pkl   # List of feature columns expected by the model
 │
 ├── notebook/
-│   └── churn_analysis.ipynb
-│       #Data analysis and model training notebook
+│   └── churn_analysis.ipynb   # Model training notebook 
+│
+├── data/
+│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Sample dataset for testing
 │
 └── README.md
 
