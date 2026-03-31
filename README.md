@@ -78,7 +78,7 @@ Plotly	Interactive visualizations
 
 📦 Installation
 1️⃣ Clone Repository
-git clone https://github.com/MansiRaut45/customer-churn-prediction.git
+git clone https://github.com/MansiRaut45/customer-churn-prediction-dashboard
 cd customer-churn-prediction
 2️⃣ Create Virtual Environment
 
