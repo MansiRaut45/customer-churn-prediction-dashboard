@@ -7,7 +7,7 @@ This project demonstrates end-to-end machine learning deployment, from data prep
 
 ## 📸 Preview
 
-![Dashboard] (customer-churn-prediction-dashboard/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 Customer Churn Prediction Dashboard showing KPIs,
 interactive charts, and churn risk predictions.
