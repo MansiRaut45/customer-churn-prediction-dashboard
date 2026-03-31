@@ -5,12 +5,12 @@ Built using Python, Streamlit, Scikit-learn, and Plotly.
 
 This project demonstrates end-to-end machine learning deployment, from data preprocessing and model training to an interactive business dashboard.
 
-📸 Application Preview
+## 📸 Preview
 
-Dashboard provides business-level insights and AI predictions.
+![Dashboard](dashboards.png)
 
-Dashboard Analytics	Single Customer Prediction
-Upload CSV → KPI metrics → Interactive analytics	Adjust customer data → instant churn probability
+Customer Churn Prediction Dashboard showing KPIs,
+interactive charts, and churn risk predictions.
 
 🚀 Features
 📊 Business Intelligence Dashboard
