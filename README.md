@@ -17,11 +17,11 @@ This project demonstrates **end-to-end machine learning deployment**, from data 
 
 # 📊 Dashboard Screenshots
 
-### Customer Churn Analytics
+### Customer Churn test dataset
 
 ![Churn Analytics](images/Screenshot1.png)
 
-### Churn Risk Distribution
+### Churn Risk Distribution Dashboard
 
 ![Risk Distribution](images/Screenshot2.png)
 
